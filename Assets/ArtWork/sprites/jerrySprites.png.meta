@@ -1,0 +1,592 @@
+fileFormatVersion: 2
+guid: 7400f30f43224974ea973a786b2f6f29
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4300301278788282480
+    second: jerrySprites_0
+  - first:
+      213: -385520519351878286
+    second: jerrySprites_1
+  - first:
+      213: -2223780853389303988
+    second: jerrySprites_2
+  - first:
+      213: -1780939357419161209
+    second: jerrySprites_3
+  - first:
+      213: -2631531813376411451
+    second: jerrySprites_4
+  - first:
+      213: 8460983407610386579
+    second: jerrySprites_5
+  - first:
+      213: 4892027507844248139
+    second: jerrySprites_6
+  - first:
+      213: 2192819668804475649
+    second: jerrySprites_7
+  - first:
+      213: -6689749921560037289
+    second: jerrySprites_8
+  - first:
+      213: -3250447066133815203
+    second: jerrySprites_9
+  - first:
+      213: 3180872386159899900
+    second: jerrySprites_10
+  - first:
+      213: 3606519026652280699
+    second: jerrySprites_11
+  - first:
+      213: 7716289071872170360
+    second: jerrySprites_12
+  - first:
+      213: -6294459164301250527
+    second: jerrySprites_13
+  - first:
+      213: -8448803998203190826
+    second: jerrySprites_14
+  - first:
+      213: -1428984063190419978
+    second: jerrySprites_15
+  - first:
+      213: -7445498868772473012
+    second: jerrySprites_16
+  - first:
+      213: 4267280924749809405
+    second: jerrySprites_17
+  - first:
+      213: -1484992318498666235
+    second: jerrySprites_18
+  - first:
+      213: 7242232243312608347
+    second: jerrySprites_19
+  - first:
+      213: -1324997511784982800
+    second: jerrySprites_20
+  - first:
+      213: 7624056411800098387
+    second: jerrySprites_21
+  - first:
+      213: 8167895311615562434
+    second: jerrySprites_22
+  - first:
+      213: 9030288467521157551
+    second: jerrySprites_23
+  - first:
+      213: -4248550957533116657
+    second: jerrySprites_24
+  - first:
+      213: 903099091049301074
+    second: jerrySprites_25
+  - first:
+      213: -6350762983591320649
+    second: jerrySprites_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jerrySprites_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 317
+        width: 70
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f5a6f881b8321e0800000000000000
+      internalID: -2223780853389303988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerrySprites_3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 317
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789b48a1715d847e0800000000000000
+      internalID: -1780939357419161209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerrySprites_4
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 317
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c83f8812cbea7bd0800000000000000
+      internalID: -2631531813376411451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerrySprites_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 206
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7587731e3eb3923a0800000000000000
+      internalID: -6689749921560037289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerrySprites_9
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 206
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5022ed6d9714e2d0800000000000000
+      internalID: -3250447066133815203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerrySprites_10
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 206
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4f8ec059ab42c20800000000000000
+      internalID: 3180872386159899900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerrySprites_11
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 111
+        width: 92
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77fb4352fdec0230800000000000000
+      internalID: 3606519026652280699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerrySprites_12
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 206
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8795b293704c51b60800000000000000
+      internalID: 7716289071872170360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerrySprites_13
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 206
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1203f925db695a8a0800000000000000
+      internalID: -6294459164301250527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerrySprites_14
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 206
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1e23ef681dfba80800000000000000
+      internalID: -8448803998203190826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerrySprites_15
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 206
+        width: 93
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f537dbc09a3b2ce0800000000000000
+      internalID: -1428984063190419978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerrySprites_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 92
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c477e3f0a364ca890800000000000000
+      internalID: -7445498868772473012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerrySprites_17
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 111
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6438c546d683b30800000000000000
+      internalID: 4267280924749809405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerrySprites_18
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 111
+        width: 92
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50904b9aa5f346be0800000000000000
+      internalID: -1484992318498666235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerrySprites_19
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 111
+        width: 92
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b544783bad3918460800000000000000
+      internalID: 7242232243312608347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jerrySprites_20
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 111
+        width: 92
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f697cd78c9ac9de0800000000000000
+      internalID: -1324997511784982800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 32824ac95d4fc274c8608dd3eb3bf28c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jerrySprites_10: 3180872386159899900
+      jerrySprites_11: 3606519026652280699
+      jerrySprites_12: 7716289071872170360
+      jerrySprites_13: -6294459164301250527
+      jerrySprites_14: -8448803998203190826
+      jerrySprites_15: -1428984063190419978
+      jerrySprites_16: -7445498868772473012
+      jerrySprites_17: 4267280924749809405
+      jerrySprites_18: -1484992318498666235
+      jerrySprites_19: 7242232243312608347
+      jerrySprites_2: -2223780853389303988
+      jerrySprites_20: -1324997511784982800
+      jerrySprites_3: -1780939357419161209
+      jerrySprites_4: -2631531813376411451
+      jerrySprites_8: -6689749921560037289
+      jerrySprites_9: -3250447066133815203
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
