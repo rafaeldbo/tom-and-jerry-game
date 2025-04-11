@@ -12,3 +12,9 @@ Controle o Jerry e coma o máximo de queijos que conseguir, enquanto tentar o To
 ### Desenvolvedor
 
 - Rafael Dourado Bastos de Oliveira
+
+### Assets
+
+- [Animação do Tom e do Jerry - Jogo: Jerry Steal Cheese](https://www.spriters-resource.com/browser_games/jerrystealcheese/)
+- [Musicas de Fundo](https://youtube.com/playlist?list=PLy9W6xJhK0cHk2WHZPfA6pUf1Il6YN_8M&si=ac0i09DPgVh6UKlY)
+- [Efeitos Sonoros](https://pixabay.com/sound-effects/)
